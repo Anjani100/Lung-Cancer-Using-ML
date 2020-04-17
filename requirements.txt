@@ -77,7 +77,6 @@ protobuf==3.9.1
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 PyAutoGUI==0.9.47
-pycocotools==2.0
 pycparser==2.19
 PyDispatcher==2.0.5
 PyGetWindow==0.0.7
