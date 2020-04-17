@@ -131,7 +131,3 @@ wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.15.5
 widgetsnbextension==3.5.1
-win32core==221.36
-win32gui==221.6
-wrapt==1.11.2
-zope.interface==4.6.0
