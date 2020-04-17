@@ -118,9 +118,6 @@ terminado==0.8.2
 testpath==0.4.2
 text-unidecode==1.2
 tf-estimator-nightly==2.0.0.dev2019102808
-tf-nightly==2.1.0.dev20191028
-tf-nightly-2.0-preview==2.0.0.dev20191002
-tf-slim==1.0
 tornado==6.0.3
 tqdm==4.35.0
 traitlets==4.3.2
