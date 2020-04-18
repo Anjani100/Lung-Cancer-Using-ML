@@ -31,4 +31,4 @@ jobs:
       run: |
         pip install pytest
         export PYTHONPATH=data_analysis
-        pytest
+        pytest data_cleaner.py
