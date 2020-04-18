@@ -46,7 +46,7 @@ def quandl_all_states():
             main_df = main_df.join(df)
     print(main_df.head())
     main_df.to_pickle('United States.pickle')
-#quandl_all_states()
+quandl_all_states()
 
 def HPI_Benchmark():
     df = quandl.get('FMAC/HPI_USA', authtoken = "KwWzLLZqSKFv4jBtSYr6")
