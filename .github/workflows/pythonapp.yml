@@ -30,5 +30,3 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
-        export PYTHONPATH=data_analysis
-        pytest data_cleaner.py
