@@ -1,0 +1,9 @@
+dataclasses==0.7
+fastapi==0.54.1
+oauthlib==2.0.1
+pydantic==1.5.1
+requests==2.13.0
+requests-oauthlib==0.7.0
+six==1.10.0
+starlette==0.13.2
+unsplash==1.0.0a2
