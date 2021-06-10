@@ -18,7 +18,7 @@ cycler==0.10.0
 cython==0.29.13
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.18
+Django==2.2.24
 django-tinymce4-lite==1.7.5
 entrypoints==0.3
 gast==0.2.2
